@@ -17,6 +17,7 @@ public class EjemploJavaEne2021 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mercedes");
+        System.out.println("Hola Mercedes");
     }
     
 }
